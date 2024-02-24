@@ -8,7 +8,6 @@ This repository is a collection of machine learning and Python tool cheat sheets
 - Machine Learning
 - Deep Learning
 - Generative AI
-- Deep Learning
 - Natural Language Processing (NLP)
 - Probability and Statistics
 - Linear Algebra
